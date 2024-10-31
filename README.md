@@ -7,7 +7,7 @@ Hi, I'm Jüri Vinnal, a Data Engineer with a passion for becoming a Full Stack D
 
 
 
-<br><br>Goals<br>- Transition from a Data Engineer to a Full Stack Developer.<br>- Master .NET and Next.js to create end-to-end solutions.<br><br>Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
+<br><br>Goals<br>- Transition from a Data Engineer to a Full Stack Developer.<br>- Master .NET and Next.js to create end-to-end solutions.<br>- Currently enhancing my knowledge in UX and UI design to improve user-centered development.<br><br>Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 
 
 
