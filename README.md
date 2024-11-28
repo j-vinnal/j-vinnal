@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm Jüri Vinnal, a Data Engineer with a passion for becoming a Full Stack Developer specializing in .NET and Next.js.<br><br>Skills and Technologies<br>- 
-**Data Engineering:** Experienced in data processing, ETL pipelines, and data analysis.<br>- 
+**Data Engineering:** Experienced in data processing, ETL pipelines, data analysis, and designing data models using Data Vault, Star Schema, and Third Normal Form.<br>- 
 **Full Stack Development:** Currently expanding my skills in .NET and Next.js to build robust and scalable web applications.<br>- 
 **Mobile Development:** Currently working on an Android mobile application using Kotlin.<br>- 
 **Cloud Native Applications:** Analyzing multi-tenant architectures for my thesis.<br>- 
