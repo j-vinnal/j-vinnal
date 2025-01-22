@@ -9,9 +9,6 @@ Hi, I'm Jüri Vinnal, a Data Engineer with a passion for transitioning into deve
 <mark>**```Domain-Driven Design (DDD):```**</mark> Actively working on enhancing my expertise by contributing to a .NET project following DDD principles.
 
 
-<br><br>Goals<br>- Transition from a Data Engineer to a Full Stack Developer.<br>- Master Python, .NET and Next.js to create end-to-end solutions.<br>- Currently enhancing my knowledge in UX and UI design to improve user-centered development.<br><br>Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BCri-vinnal-7a371a14a/) 
