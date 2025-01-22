@@ -5,7 +5,7 @@ Hi, I'm Jüri Vinnal, a Data Engineer with a passion for transitioning into deve
 <mark>**```Data Engineering:```**</mark> Experienced in data processing, ETL pipelines, data analysis, and designing data models using Data Vault, Star Schema, and Third Normal Form.<br>- 
 <mark>**```Full Stack Development:```**</mark> Currently expanding my skills in Python, .NET and Next.js to build robust and scalable web applications.<br>- 
 <mark>**```Mobile Development:```**</mark> Currently working on an Android mobile application using Kotlin.<br>- 
-<mark>**```Cloud Native Applications:```**</mark> Analyzing multi-tenant architectures for my thesis.<br>- 
+<mark>**```Cloud Native Applications:```**</mark> Analyzing cloud native architectures for my thesis.<br>- 
 <mark>**```Domain-Driven Design (DDD):```**</mark> Actively working on enhancing my expertise by contributing to a .NET project following DDD principles.
 
 
