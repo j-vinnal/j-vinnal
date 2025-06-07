@@ -1,0 +1,133 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
+  <diagram name="Page-1" id="H68BKkYXYMn3y7tMfsEl">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="External Services" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="26" y="616" width="472" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Database Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="517" y="616" width="418" height="256" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Backend" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="8" y="185" width="946" height="358" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Frontend" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="518" y="8" width="232" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="User Interface" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="553" y="33" width="162" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Application Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="542" y="210" width="185" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Business Logic" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="285" y="337" width="161" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Data Access Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="43" y="464" width="188" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Database" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="577" y="641" width="126" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Data Warehouse" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="552" y="793" width="175" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="External APIs" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="61" y="641" width="153" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Message Broker" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="281" y="464" width="170" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="Real-time Services" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="641" width="192" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="Reporting Service" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="734" y="464" width="185" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="Cache Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="752" y="641" width="148" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="RESTful API" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="989" y="337" width="141" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="GraphQL API" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="337" width="148" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="Interacts with" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="6" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20" value="Calls" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.91;entryX=0.5;entryY=0;" edge="1" parent="1" source="7" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="366" y="301" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21" value="Handles" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.91;entryX=0.5;entryY=0;" edge="1" parent="1" source="8" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="137" y="428" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="22" value="Retrieves data from" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.5;entryY=0;" edge="1" parent="1" source="9" target="10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="543" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23" value="Queries" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="10" target="11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24" value="Utilizes" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="9" target="12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25" value="Sends Notifications to" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="8" target="13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="26" value="Distributes" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="13" target="14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27" value="Generates Reports using" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0.5;entryY=0;" edge="1" parent="1" source="8" target="15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="826" y="428" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28" value="Fetches data from" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="15" target="16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29" value="Implements" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=1;entryX=0;entryY=0.21;" edge="1" parent="1" source="7" target="17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="778" y="301" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="30" value="Serves" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.9;entryX=0;entryY=0.25;" edge="1" parent="1" source="7" target="18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="909" y="301" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
